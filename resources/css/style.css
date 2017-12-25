@@ -3,6 +3,9 @@ html{
   color: black;
   text-align: center;
 }
+a{
+  color: white;
+}
 h1{
   font-size: 70px;
   font-weight: bold;
@@ -24,6 +27,12 @@ h4{
 p{
   font-size: 14px;
 }
+#footer{
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+  text-align: left;
+}
 .backimage{
   background-image: url(../images/the-flatiron-building.png);
   background-size: cover;
@@ -38,7 +47,4 @@ p{
   font-weight: bold;
   color: white;
   margin-bottom: 20px;
-}
-.backimage a{
-  color: white;
 }
